@@ -13,9 +13,6 @@ The Phonebook Application is designed for storing and organizing contact informa
 - **Multithreading**: Supports parallel searching to improve performance.
 
 ## Technologies Used
-- **C++ Programming Language**: Core implementation of the application.
-- **Binary Search Tree (BST)**: For efficient contact storage and search operations.
-- **Multithreading**: Used for parallel tasks such as search.
-- **File Handling**: Store contacts in a file for persistence.
-- **Object-Oriented Principles**: Encapsulation of contact details and phonebook management using classes.
+- **Python Programming Language & SQL**: Core implementation of the application.
+- **GUI Programming using Tkinter**: Created an Interface.
 
